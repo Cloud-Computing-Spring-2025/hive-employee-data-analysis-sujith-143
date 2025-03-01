@@ -244,5 +244,5 @@ This project covers Hive query execution, data partitioning, and exporting query
 
 ---
 
-*Author:* Your Name  
-*Date:* YYYY-MM-DD
+*Author:* Sujith Ari 
+*Date:* 2025-02-28
